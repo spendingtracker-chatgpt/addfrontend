@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import Image from 'next/image'
 import {useRouter} from 'next/navigation';
 import { useEffect } from 'react';
-import SignUp from "/public/images/signup.svg"
+import  SignUp from "/public/images/signup.svg"
 const API = "http://127.0.0.1:5000";
 
 export default function Registre () {

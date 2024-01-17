@@ -9,8 +9,8 @@ export default function Home() {
     <>
     <div className={styles.container}>
       <div className={styles.column}>
-        <h1 className={styles.title}>LOREM ES IPSSUM FOR LOREM</h1>
-        <p className={styles.description}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed et ad quam atque, suscipit laudantium vel doloremque aliquid omnis Sed et ad quam atque!</p>
+        <h1 className={styles.title}>Empower your finances with Spending Tracker </h1>
+        <p className={styles.description}>Elevate your financial journey with seamless tracking and insightful insights at your fingertips</p>
       </div>
       <div className={styles.column}>
         <Image src={Hero} alt='st' className={styles.img} />
@@ -21,15 +21,15 @@ export default function Home() {
         <Image src={Transfert} alt='st' className={styles.img} />
       </div>
         <div className={styles.column}>
-          <h1 className={styles.title1}>LOREM ES IPSSUM FOR LOREM</h1>
-          <p className={styles.description}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed et ad quam atque, suscipit laudantium vel doloremque aliquid omnis Sed et ad quam atque!</p>
+          <h1 className={styles.title1}>Use Spending Tracker</h1>
+          <p className={styles.description}>Unlock financial control with Spending Tracker – your innovative solution for streamlined tracking of all electronic transactions</p>
           
       </div>
     </div>
     <div className={styles.container}>
       <div className={styles.column}>
-        <h1 className={styles.title2}>LOREM ES IPSSUM FOR LOREM</h1>
-        <p className={styles.description}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed et ad quam atque, suscipit laudantium vel doloremque aliquid omnis Sed et ad quam atque!</p>
+        <h1 className={styles.title2}>With Spending Tracker</h1>
+        <p className={styles.description}>Take charge of your money effortlessly!</p>
       </div>
       <div className={styles.column}>
         <Image src={Invest} alt='st' className={styles.img} />
