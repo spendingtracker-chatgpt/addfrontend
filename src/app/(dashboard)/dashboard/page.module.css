@@ -1,0 +1,4 @@
+.chart_transaction{
+  display: flex;
+  justify-content: space-between;
+}

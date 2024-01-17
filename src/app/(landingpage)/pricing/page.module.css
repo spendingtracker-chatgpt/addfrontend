@@ -1,0 +1,12 @@
+.cards{
+    display: flex;
+    margin-top: 50px;
+    gap: 50px;
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 0px 1px 20px var(--color-primary);
+}
+.card1{
+    margin-top: 50px;
+}
